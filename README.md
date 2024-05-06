@@ -1,4 +1,4 @@
 # demo
 
 
-hi thi is my repository
+hi this is my repository
