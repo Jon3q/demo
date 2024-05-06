@@ -1,4 +1,4 @@
 # demo
 
 added line
-hi this is my repository
+hi user this is my repository
